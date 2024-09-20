@@ -1,0 +1,53 @@
+form{
+    border-collapse: collapse;
+    background-color: #F0F0F0;
+    width: 400px;
+    height: 700px;
+    border-radius: 10px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #344A72;
+    padding: 50px;
+}
+
+.SignUp{
+    color: black;
+    font-weight: bold;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.It{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.S{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
